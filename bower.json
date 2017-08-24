@@ -1,5 +1,6 @@
 {
-  "name": "bolser.owl.carousel",
+  "name": "owl.carousel",
+  "homepage": "https://github.com/bolser/OwlCarousel2",
   "version": "2.3.1",
   "main": [
     "dist/owl.carousel.js",
@@ -10,6 +11,5 @@
   "dependencies": {
     "jquery": ">= 1.8.3"
   },
-  "_source": "https://github.com/bolser/OwlCarousel2",
-  "_target": "~2.3.1"
+  "_source": "https://github.com/bolser/OwlCarousel2"
 }
